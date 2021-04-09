@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    /* padding: 50px; */
+    /* height: 200px; */
+    /* box-sizing: border-box; */
+}
+
+.header-item{
+
+ color: white;  
+ display: flex;
+ justify-content: space-around;
+ 
+ 
+}
+
+#ul{
+    display: inline;
+}
+.header{
+    color: white;
+    font-size: 20px;
+    height: 130vh;
+    /* padding: 20rem; */
+      
+}
+
+.header-item{
+    margin-top: 1rem;
+      
+}
+.header-items{
+    margin-bottom: 10rem;
+    
+}
+
+#name{
+    font-size: 6rem;
+}
+
+.header-itemss{
+    margin-top: -14rem;
+}
+
+.btn{
+    border: 6px solid #ffffff;
+    border-radius: 2px;
+    color: #ffffff;
+    outline-color: #ffffff;
+    
+}
+
+.btn-info:hover{
+    border: 6px solid #ffffff;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color:blue;
+}
+
+.aboutMe{
+    height: 100vh;
+}
+
+.aboutmeContent{
+    height:560px;
+    margin-top: 4rem;
+    /* justify-content: space-around; */
+}
+.jumbotron{
+    margin-top:1rem;
+}
+.PORTFOLIO{
+    margin-top: 8rem;
+}
+
+a:hover{
+    opacity: 0.5;
+    
+}
